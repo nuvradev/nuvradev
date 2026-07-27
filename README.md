@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" width="96" alt="Nuvra.dev"/>
+<img src="./pfp.png" width="120" alt="Nuvra.dev"/>
 
 # Nuvra.dev
 
